@@ -1,8 +1,6 @@
-.box {
-    width: 100px;
-    height: 100px;
-    background-color: blue;
+.png {
     position: absolute;
-    left: 500px;
-    top: 200px;
+    left: 39%;
+    top: 7%;
+    width: 230px;
 }
